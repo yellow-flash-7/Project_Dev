@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07152e"/><stop offset="1" stop-color="#1c3971"/></linearGradient></defs>
+  <rect width="1280" height="720" fill="url(#g)"/><circle cx="1020" cy="160" r="260" fill="#4778e8" opacity=".14"/><circle cx="220" cy="640" r="280" fill="#50d8b1" opacity=".08"/>
+  <g fill="#fff" text-anchor="middle" font-family="Arial,sans-serif"><text x="640" y="320" font-size="88" font-weight="700">CERTITRUST</text><text x="640" y="385" font-size="27" fill="#b8ccff">ACADEMIC CERTIFICATE AUTHENTICITY</text></g>
+</svg>
